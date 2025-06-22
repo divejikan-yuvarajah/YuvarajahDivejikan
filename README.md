@@ -37,11 +37,11 @@ I love building creative projects that solve real-world problems.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuvarajahDivejikan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divejikan-yuvarajah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvarajahDivejikan&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divejikan-yuvarajah&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
