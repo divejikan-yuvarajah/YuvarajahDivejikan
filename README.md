@@ -43,13 +43,9 @@ I'm continuously learning and exploring tools that bring value to people through
 
 ### 📈 GitHub Stats
 
-<p align="center" style="font-family: monospace;">
-  <img src="https://github-readme-stats.vercel.app/api?username=divejikan-yuvarajah&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
-</p>
-
-<p align="center" style="font-family: monospace;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divejikan-yuvarajah&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=divejikan-yuvarajah&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=divejikan-yuvarajah&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=divejikan-yuvarajah&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
